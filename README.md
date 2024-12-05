@@ -36,7 +36,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 This project focused on prediction of transport properties of thiol-ene/acrylate systems, components of 'click-chemistry' compounds, using molecular dynamics simulations. This data-driven approach, with the use of **NAMD** and alysed in **MATLAB**, led to an increase knowledge regarding various physical properties of the starting modular units used in the development of multi-faceted end user applications such as fabrication of materials from areas such as materials science, bioconjugation and drug delivery. 
 
-[Example image](/pic.png)
+![Example image](/pic.png)
 
 ## Teaching
 
