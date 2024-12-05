@@ -11,10 +11,10 @@ I am a recent PhD graduate in [Chemical and Biological Engineering](https://engi
 ---> 
 
 ## Education
-$\color{red}{\textsf{lorem ipsum}}$
-- Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, New York (_August 2024_)
-- M.Tech., Chemical Engineering | **Indian Institute of Technology**, Guwahati, Assam, India (_July 2016_)
-- B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
+
+- **Ph.D.**, Chemical Engineering | **[University at Buffalo](https://engineering.buffalo.edu/chemical-biological.html)**, Buffalo, New York (_August 2024_)
+- **M.Tech.**, Chemical Engineering | **[Indian Institute of Technology](https://www.iitg.ac.in/chemeng/)**, Guwahati, Assam, India (_July 2016_)
+- **B.Tech.**, Chemical Engineering | **[Heritage Institute of Technology](https://www.heritageit.edu/ChemEngg.aspx)**, Kolkata, W.B., India (_June 2014_)
 
 ## Projects
 **Project 1**
