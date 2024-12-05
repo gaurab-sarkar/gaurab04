@@ -1,12 +1,13 @@
 ## Introduction
 
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+I am a recent PhD graduate from State University of New York, Buffalo, with interests in the domains of molecular simulations, molecular modeling, computational chemistry and its applications. My research interests comprise of building strategies
+for efficient carbon capture, utilization and storage systems. Further, I have worked with modeling novel methods for accurate phase equilibrium calculations effective for use in pharmaceutical and petroleum industries.
 
 ## Education
 
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+Ph.D., Chemical Engineering | University at Buffalo, Buffalo, NY  (August 2024)
+M.Tech., Chemical Engineering | Indian Institute of Technology, Guwahati, Assam, India  (July 2016)
+B.Tech., Chemical Engineering | Heritage Institute of Technology, Kolkata, W.B., India (June 2014)
 
 ## Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
