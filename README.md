@@ -7,7 +7,7 @@ for efficient carbon capture, utilization and storage systems. Further, I have w
 - **Design Software**: AutoCAD.
 - **Language / Platforms**: Bash, MATLAB, FORTRAN, C++, Python.
 - **Modeling Software**: LAMMPS, Avogadro, NAMD, VMD.
-<- Interests: Molecular Simulation, Data Analysis, Mathematical Modelling, Machine Learning.>
+// - Interests: Molecular Simulation, Data Analysis, Mathematical Modelling, Machine Learning.
 
 ## Education
 
