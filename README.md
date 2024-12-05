@@ -31,10 +31,10 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ## Teaching
 
-- **Teaching Assistant** - Advanced Chemical Thermodynamics (CE 525) - **UB**, Fall 2022
-- **Teaching Assistant** - Chemical Engineering Thermodynamics (CE 304) - **UB**, Spring 2022
-- **Teaching Assistant** - Applied Mathematics for Chemical Engineer (CE 341) - **UB**, Fall 2019
-- **Teaching Assistant** - Computer Aided Numerical Methods (CL 502) - **IITG**, Fall 2025
+- **Teaching Assistant** - Advanced Chemical Thermodynamics (CE 525) - **UB**, _Fall 2022_
+- **Teaching Assistant** - Chemical Engineering Thermodynamics (CE 304) - **UB**, _Spring 2022_
+- **Teaching Assistant** - Applied Mathematics for Chemical Engineer (CE 341) - **UB**, _Fall 2019_
+- **Teaching Assistant** - Computer Aided Numerical Methods (CL 502) - **IITG**, _Fall 2015_
 
 ## Publications
 
