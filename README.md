@@ -6,7 +6,9 @@ I am a recent PhD graduate in [Chemical and Biological Engineering](https://engi
 - **Design Software**: AutoCAD.
 - **Language / Platforms**: Bash, MATLAB, FORTRAN, C++, Python.
 - **Modeling Software**: LAMMPS, Avogadro, NAMD, VMD.
-// - Interests: Molecular Simulation, Data Analysis, Mathematical Modelling, Machine Learning.
+{% comment %}
+- Interests: Molecular Simulation, Data Analysis, Mathematical Modelling, Machine Learning.
+{% endcomment %}
 
 ## Education
 
