@@ -18,7 +18,7 @@ Interests: Molecular Simulation, Data Analysis, Mathematical Modelling, Machine 
 
 ## Projects
 
-**Project 1**
+### Project 1
 
 <!---
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -28,9 +28,9 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![Example image](/pic.png)
 --->
 
-**Project 2**
+### Project 2
 
-**Prediction of transport/thermodynamical properties for Click-Chemistry compounds**
+### Prediction of transport/thermodynamical properties for Click-Chemistry compounds
 
 [Publication](http://dx.doi.org/10.1016/j.molliq.2016.10.036)
 
@@ -45,11 +45,11 @@ This project focused on prediction of transport properties of thiol-ene/acrylate
 
 ## Publications
 
-**JOURNALS**
+### JOURNALS
 
 1. [Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study](http://dx.doi.org/10.1016/j.molliq.2016.10.036). **Gaurab Sarkar, Debashis Kundu, Tamal Banerjee**. Journal of Molecular Liquids 2016.
 
-**CONFERENCE PUBLICATIONS / PRESENTATIONS**
+### CONFERENCE PUBLICATIONS / PRESENTATIONS
 
 1. Molecular simulation study of gas adsorption and transport in room temperature ionic liquid membranes supported by carbon nanotubes. **Gaurab Sarkar, Andrew Schultz, Jeffrey Errington**. [FOMMS 2024 - Molecular Modeling and the Data Revolution](https://fomms.cache.org/).
 2. Determination of bulk saturation properties using ‘force-based’ methods. **Gaurab Sarkar, Andrew Schultz, Jeffrey Errington.** [FOMMS 2022 - Molecular Modeling and the Data Revolution](https://fomms.cache.org/2022/overview).
