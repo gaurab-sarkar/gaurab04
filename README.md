@@ -11,7 +11,7 @@ I am a recent PhD graduate in [Chemical and Biological Engineering](https://engi
 ---> 
 
 ## Education
-
+$\color{red}{\textsf{lorem ipsum}}$
 - Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, New York (_August 2024_)
 - M.Tech., Chemical Engineering | **Indian Institute of Technology**, Guwahati, Assam, India (_July 2016_)
 - B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
