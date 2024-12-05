@@ -30,11 +30,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ### Project 2
 
-### Prediction of transport/thermodynamical properties for Click-Chemistry compounds
+### Prediction of transport/thermodynamical properties for click-chemistry compounds
 
 [Publication](http://dx.doi.org/10.1016/j.molliq.2016.10.036)
 
-This project focused on prediction of transport properties of thiol-ene/acrylate systems by molecular dynamics simulation. This data-driven approach led to increase of knowledge regarding various physical properties of the starting modular units helps in development of end user applications such as multi-faceted use in fabrication of materials from areas such as materials science, bioconjugation and drug delivery. 
+This project focused on prediction of transport properties of thiol-ene/acrylate systems, components of 'click-chemistry' compounds, using molecular dynamics simulations. This data-driven approach, with the use of **NAMD** and alysed in **MATLAB**, led to an increase knowledge regarding various physical properties of the starting modular units used in the development of multi-faceted end user applications such as fabrication of materials from areas such as materials science, bioconjugation and drug delivery. 
 
 ## Teaching
 
