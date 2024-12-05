@@ -40,7 +40,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 **JOURNALS**
 
-1. Gaurab Sarkar, Debashis Kundu, Tamal Banerjee. Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study. **Journal of Molecular Liquids 224 (2016) 859–871**. [DOI](http://dx.doi.org/10.1016/j.molliq.2016.10.036)
+1. Gaurab Sarkar, Debashis Kundu, Tamal Banerjee. Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study. **Journal of Molecular Liquids, (2016)**, [DOI](http://dx.doi.org/10.1016/j.molliq.2016.10.036).
 
 **CONFERENCE PUBLICATIONS / PRESENTATIONS**
 
