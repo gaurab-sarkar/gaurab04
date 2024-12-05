@@ -11,9 +11,9 @@ for efficient carbon capture, utilization and storage systems. Further, I have w
 
 ## Education
 
-Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, NY (_August 2024_)
-M.Tech., Chemical Engineering | **Indian Institute of Technology**, Guwahati, Assam, India (_July 2016_)
-B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
+- Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, NY (_August 2024_)
+- M.Tech., Chemical Engineering | **Indian Institute of Technology**, Guwahati, Assam, India (_July 2016_)
+- B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
 
 ## Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
