@@ -1,7 +1,6 @@
 ## Introduction
 
-I am a recent PhD graduate from State University of New York, Buffalo, with interests in the domains of molecular simulations, molecular modeling, computational chemistry and its applications. My research interests comprise of building strategies
-for efficient carbon capture, utilization and storage systems. Further, I have worked with modeling novel methods for accurate phase equilibrium calculations effective for use in pharmaceutical and petroleum industries.
+I am a recent PhD graduate in [Chemical and Biological Engineering](https://engineering.buffalo.edu/chemical-biological.html) from State University of New York, Buffalo, with interests in the domains of molecular simulations, molecular modeling, computational chemistry and its applications. Advised by [Dr. Jeffrey R. Errigton] (https://engineering.buffalo.edu/chemical-biological/people/faculty-directory/core.host.html/content/shared/engineering/chemical-biological/profiles/faculty/errington-jeffrey-r.detail.html), my doctoral disseration included building strategies for efficient carbon capture, utilization and storage systems with further work involving of modeling novel methods for accurate phase equilibrium calculations effective for use in pharmaceutical and petroleum industries.
 
 ## Skills / Interests
 - **Design Software**: AutoCAD.
@@ -11,7 +10,7 @@ for efficient carbon capture, utilization and storage systems. Further, I have w
 
 ## Education
 
-- Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, NY (_August 2024_)
+- Ph.D., Chemical Engineering | **University at Buffalo**, Buffalo, New York (_August 2024_)
 - M.Tech., Chemical Engineering | **Indian Institute of Technology**, Guwahati, Assam, India (_July 2016_)
 - B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
 
