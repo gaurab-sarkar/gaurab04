@@ -17,7 +17,9 @@ I am a recent PhD graduate in [Chemical and Biological Engineering](https://engi
 - **B.Tech.**, Chemical Engineering | **[Heritage Institute of Technology](https://www.heritageit.edu/ChemEngg.aspx)**, Kolkata, W.B., India (_June 2014_)
 
 ## Projects
+
 **Project 1**
+
 <!---
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -25,6 +27,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![Example image](/pic.png)
 --->
+
 **Project 2**
 
 **Project 3**
@@ -40,7 +43,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 **JOURNALS**
 
-1. Gaurab Sarkar, Debashis Kundu, Tamal Banerjee. Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study. **Journal of Molecular Liquids, (2016)**, [DOI](http://dx.doi.org/10.1016/j.molliq.2016.10.036).
+1. [Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study](http://dx.doi.org/10.1016/j.molliq.2016.10.036). **Gaurab Sarkar, Debashis Kundu, Tamal Banerjee**. Journal of Molecular Liquids 2016.
 
 **CONFERENCE PUBLICATIONS / PRESENTATIONS**
 
