@@ -2,5 +2,5 @@ title: John Doe
 description: johh.doe@ac.in
 logo: /pic.png
 # show_downloads : true
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
+# theme: jekyll-theme-tactile
