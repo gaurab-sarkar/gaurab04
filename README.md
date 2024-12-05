@@ -47,6 +47,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 **CONFERENCE PUBLICATIONS / PRESENTATIONS**
 
-1. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Molecular simulation study of gas adsorption and transport in room temperature ionic liquid membranes supported by carbon nanotubes. [**FOMMS 2024 - Molecular Modeling and the Data Revolution**]().
-2. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Determination of bulk saturation properties using ‘force-based’ methods. [**FOMMS 2022 - Molecular Modeling and the Data Revolution**](https://fomms.cache.org/2022/overview).
+1. Molecular simulation study of gas adsorption and transport in room temperature ionic liquid membranes supported by carbon nanotubes. **Gaurab Sarkar, Andrew Schultz, Jeffrey Errington**. [FOMMS 2024 - Molecular Modeling and the Data Revolution](https://fomms.cache.org/).
+2. Determination of bulk saturation properties using ‘force-based’ methods. **Gaurab Sarkar, Andrew Schultz, Jeffrey Errington.** [FOMMS 2022 - Molecular Modeling and the Data Revolution](https://fomms.cache.org/2022/overview).
 
