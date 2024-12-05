@@ -15,29 +15,33 @@ I am a recent PhD graduate in [Chemical and Biological Engineering](https://engi
 - B.Tech., Chemical Engineering | **Heritage Institute of Technology**, Kolkata, W.B., India (_June 2014_)
 
 ## Projects
-**Data-Driven EEG Band Discovery with Decision Trees**
+**Project 1**
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+// [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+// Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more // // commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![Example image](/pic.png)
+// ![Example image](/pic.png)
+
+**Project 2**
+
+**Project 3**
 
 ## Teaching
 
 - **Teaching Assistant** - Advanced Chemical Thermodynamics (CE 525) - **UB**, Fall 2022
 - **Teaching Assistant** - Chemical Engineering Thermodynamics (CE 304) - **UB**, Spring 2022
 - **Teaching Assistant** - Applied Mathematics for Chemical Engineer (CE 341) - **UB**, Fall 2019
-- **Teaching Assistant** - Computer Aided Numerical Methods (CL 502) - **UB**, Fall 2025
+- **Teaching Assistant** - Computer Aided Numerical Methods (CL 502) - **IITG**, Fall 2025
 
 ## Publications
 
 **JOURNALS**
 
-1. Gaurab Sarkar, Debashis Kundu, Tamal Banerjee. Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study. **Journal of Molecular Liquids 224 (2016) 859–871**.
+1. Gaurab Sarkar, Debashis Kundu, Tamal Banerjee. Effects of functionality on the transport properties of thiol-ene/acrylate systems: A molecular dynamics study. **Journal of Molecular Liquids 224 (2016) 859–871**. [DOI](http://dx.doi.org/10.1016/j.molliq.2016.10.036)
 
 **CONFERENCE PUBLICATIONS / PRESENTATIONS**
 
-1. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Molecular simulation study of gas adsorption and transport in room temperature ionic liquid membranes supported by carbon nanotubes. **FOMMS 2024 - Molecular Modeling and the Data Revolution**.
-2. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Determination of bulk saturation properties using ‘force-based’ methods. **FOMMS 2022 - Molecular Modeling and the Data Revolution**.
+1. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Molecular simulation study of gas adsorption and transport in room temperature ionic liquid membranes supported by carbon nanotubes. [**FOMMS 2024 - Molecular Modeling and the Data Revolution**]().
+2. Gaurab Sarkar, Andrew Schultz, Jeffrey Errington. Determination of bulk saturation properties using ‘force-based’ methods. [**FOMMS 2022 - Molecular Modeling and the Data Revolution**](https://fomms.cache.org/2022/overview).
 
